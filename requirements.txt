@@ -1,4 +1,5 @@
 numpy
 tensorflow
+tensorflow_datasets
 keras
 matplotlib
